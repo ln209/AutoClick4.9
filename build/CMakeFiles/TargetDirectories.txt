@@ -1,0 +1,3 @@
+C:/Users/luisn/Documents/Git/AutoClick4.9/build/CMakeFiles/AutoClick.dir
+C:/Users/luisn/Documents/Git/AutoClick4.9/build/CMakeFiles/edit_cache.dir
+C:/Users/luisn/Documents/Git/AutoClick4.9/build/CMakeFiles/rebuild_cache.dir
