@@ -128,29 +128,29 @@ AutoClick/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AutoClick.dir\build.make CMakeFiles/AutoClick.dir/build
 .PHONY : AutoClick/fast
 
-src/test.obj: src/test.cpp.obj
-.PHONY : src/test.obj
+src/OpenCV_Code.obj: src/OpenCV_Code.cpp.obj
+.PHONY : src/OpenCV_Code.obj
 
 # target to build an object file
-src/test.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AutoClick.dir\build.make CMakeFiles/AutoClick.dir/src/test.cpp.obj
-.PHONY : src/test.cpp.obj
+src/OpenCV_Code.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AutoClick.dir\build.make CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj
+.PHONY : src/OpenCV_Code.cpp.obj
 
-src/test.i: src/test.cpp.i
-.PHONY : src/test.i
+src/OpenCV_Code.i: src/OpenCV_Code.cpp.i
+.PHONY : src/OpenCV_Code.i
 
 # target to preprocess a source file
-src/test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AutoClick.dir\build.make CMakeFiles/AutoClick.dir/src/test.cpp.i
-.PHONY : src/test.cpp.i
+src/OpenCV_Code.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AutoClick.dir\build.make CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.i
+.PHONY : src/OpenCV_Code.cpp.i
 
-src/test.s: src/test.cpp.s
-.PHONY : src/test.s
+src/OpenCV_Code.s: src/OpenCV_Code.cpp.s
+.PHONY : src/OpenCV_Code.s
 
 # target to generate assembly for a file
-src/test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\AutoClick.dir\build.make CMakeFiles/AutoClick.dir/src/test.cpp.s
-.PHONY : src/test.cpp.s
+src/OpenCV_Code.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AutoClick.dir\build.make CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.s
+.PHONY : src/OpenCV_Code.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... AutoClick
-	@echo ... src/test.obj
-	@echo ... src/test.i
-	@echo ... src/test.s
+	@echo ... src/OpenCV_Code.obj
+	@echo ... src/OpenCV_Code.i
+	@echo ... src/OpenCV_Code.s
 .PHONY : help
 
 

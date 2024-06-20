@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "AutoClick.exe"
   "AutoClick.exe.manifest"
   "AutoClick.pdb"
-  "CMakeFiles/AutoClick.dir/src/test.cpp.obj"
-  "CMakeFiles/AutoClick.dir/src/test.cpp.obj.d"
+  "CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj"
+  "CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj.d"
   "libAutoClick.dll.a"
 )
 

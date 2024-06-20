@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/luisn/Documents/Git/AutoClick4.9/src/test.cpp" "CMakeFiles/AutoClick.dir/src/test.cpp.obj" "gcc" "CMakeFiles/AutoClick.dir/src/test.cpp.obj.d"
+  "C:/Users/luisn/Documents/Git/AutoClick4.9/src/OpenCV_Code.cpp" "CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj" "gcc" "CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

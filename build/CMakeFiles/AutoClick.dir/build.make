@@ -68,29 +68,29 @@ include CMakeFiles/AutoClick.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/AutoClick.dir/flags.make
 
-CMakeFiles/AutoClick.dir/src/test.cpp.obj: CMakeFiles/AutoClick.dir/flags.make
-CMakeFiles/AutoClick.dir/src/test.cpp.obj: CMakeFiles/AutoClick.dir/includes_CXX.rsp
-CMakeFiles/AutoClick.dir/src/test.cpp.obj: C:/Users/luisn/Documents/Git/AutoClick4.9/src/test.cpp
-CMakeFiles/AutoClick.dir/src/test.cpp.obj: CMakeFiles/AutoClick.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\luisn\Documents\Git\AutoClick4.9\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AutoClick.dir/src/test.cpp.obj"
-	C:\TDM-GCC-64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AutoClick.dir/src/test.cpp.obj -MF CMakeFiles\AutoClick.dir\src\test.cpp.obj.d -o CMakeFiles\AutoClick.dir\src\test.cpp.obj -c C:\Users\luisn\Documents\Git\AutoClick4.9\src\test.cpp
+CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj: CMakeFiles/AutoClick.dir/flags.make
+CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj: CMakeFiles/AutoClick.dir/includes_CXX.rsp
+CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj: C:/Users/luisn/Documents/Git/AutoClick4.9/src/OpenCV_Code.cpp
+CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj: CMakeFiles/AutoClick.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\luisn\Documents\Git\AutoClick4.9\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj"
+	C:\TDM-GCC-64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj -MF CMakeFiles\AutoClick.dir\src\OpenCV_Code.cpp.obj.d -o CMakeFiles\AutoClick.dir\src\OpenCV_Code.cpp.obj -c C:\Users\luisn\Documents\Git\AutoClick4.9\src\OpenCV_Code.cpp
 
-CMakeFiles/AutoClick.dir/src/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AutoClick.dir/src/test.cpp.i"
-	C:\TDM-GCC-64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\luisn\Documents\Git\AutoClick4.9\src\test.cpp > CMakeFiles\AutoClick.dir\src\test.cpp.i
+CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.i"
+	C:\TDM-GCC-64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\luisn\Documents\Git\AutoClick4.9\src\OpenCV_Code.cpp > CMakeFiles\AutoClick.dir\src\OpenCV_Code.cpp.i
 
-CMakeFiles/AutoClick.dir/src/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AutoClick.dir/src/test.cpp.s"
-	C:\TDM-GCC-64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\luisn\Documents\Git\AutoClick4.9\src\test.cpp -o CMakeFiles\AutoClick.dir\src\test.cpp.s
+CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.s"
+	C:\TDM-GCC-64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\luisn\Documents\Git\AutoClick4.9\src\OpenCV_Code.cpp -o CMakeFiles\AutoClick.dir\src\OpenCV_Code.cpp.s
 
 # Object files for target AutoClick
 AutoClick_OBJECTS = \
-"CMakeFiles/AutoClick.dir/src/test.cpp.obj"
+"CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj"
 
 # External object files for target AutoClick
 AutoClick_EXTERNAL_OBJECTS =
 
-AutoClick.exe: CMakeFiles/AutoClick.dir/src/test.cpp.obj
+AutoClick.exe: CMakeFiles/AutoClick.dir/src/OpenCV_Code.cpp.obj
 AutoClick.exe: CMakeFiles/AutoClick.dir/build.make
 AutoClick.exe: C:/Users/luisn/Documents/OpenCV/build/install/x64/mingw/lib/libopencv_gapi4100.dll.a
 AutoClick.exe: C:/Users/luisn/Documents/OpenCV/build/install/x64/mingw/lib/libopencv_highgui4100.dll.a
