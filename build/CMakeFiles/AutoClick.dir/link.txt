@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\AutoClick.dir/objects.a
-C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\AutoClick.dir/objects.a @CMakeFiles\AutoClick.dir\objects1.rsp
-C:\TDM-GCC-64\bin\c++.exe  -std=c++11 -g -Wl,--whole-archive CMakeFiles\AutoClick.dir/objects.a -Wl,--no-whole-archive -o AutoClick.exe -Wl,--out-implib,libAutoClick.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AutoClick.dir\linkLibs.rsp
